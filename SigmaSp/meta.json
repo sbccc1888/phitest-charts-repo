@@ -1,0 +1,23 @@
+{
+	"name":"SIGMA(Haocore Mix) ~ Regrets of the Yellow Tulip ~",                            
+	"codename":"SigmaSp",                          
+	"artist": "Kry.exe-天利",                    
+	"copyrights": "Pigeon Games",                 
+	"musicFile":"1.mp3",                       
+	"ezRanking":114514,                                
+	"hdRanking":114514,                           
+	"inRanking":114514,                              
+	"atRanking":114514,                              
+	"chartEZ":"1.json",                 
+	"chartHD":"1.json",                     
+	"chartIN":"1.json",                  
+	"chartAT":"1.json",                    
+	"illustration":"1.png",       
+	"chartDesigner":"RDRT -p 19:08:31",         
+	"ezChartDesigner":"Σ as Nαrcαcτυs",        
+	"hdChartDesigner":"Σ as Nαrcαcτυs",        
+	"inChartDesigner":"Σ as Nαrcαcτυs",         
+	"atChartDesigner":"Σ as Nαrcαcτυs",
+	"illustrator":"Viosgit",                
+	"sliceAudioStart":"112"                      
+}
